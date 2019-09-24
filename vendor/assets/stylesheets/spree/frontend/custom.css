@@ -1,0 +1,12 @@
+a, a:visited {
+	color:#D10A0A;
+}
+
+.header_phone {
+	color:#FFFFFF;
+	position:absolute;
+	top:0;
+	right:15px;
+	font-size: 18px;
+	font-weight: bold;	
+}
